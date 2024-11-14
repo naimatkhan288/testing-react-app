@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://media.giphy.com/media/ceeFbVxiZzMBi/giphy.gif" alt="logo" />
+        <h2>I love Coffee! from costa</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
